@@ -1,0 +1,37 @@
+			.done{
+				text-decoration: line-through;
+			}
+
+			#tomorrow li {
+				font-weight:bold;
+			}
+
+			#square {
+				width:200px;
+				height: 200px;
+				background-color: #ABCC;
+				padding: 50px;
+				border: 50px solid red;
+				margin: 50px;
+			}
+
+			body {
+				font-family: "Arial", Arial, sans-seriff;
+			}
+
+			h1 {
+				color: pink;
+				text-decoration: underline;
+				font-size: 60px;
+				
+			}
+
+			ul li {
+				color: blue;
+				
+			}
+
+			ol li {
+				color:purple;
+				
+			}
